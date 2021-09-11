@@ -1,5 +1,5 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-.patreon.com	TRUE	/	FALSE	1999999999	__cf_bm	mq2C.Oy3GuRyzA.FHB4lTI5YrIY9vHJFdSqztybcmw4-1630926261-0-AWdRJ/dSfaE6izj5SbFzLqBvlpmwXEV1Xv7sIHoqxXjxhcqBWqUY832ce9/7ZMENM13mImGeoimrBIVOd+NpF/BFvHWhxfgGA+Cxb1eDy1oJ
+.patreon.com	TRUE	/	FALSE	1999999999	__cf_bm	n5hPV7lv6_rXyo6gdd19WQnGvarSIhZ_VOR9Trh2piw-1631367261-0-ASdcaFSCi01X6S/2C9vzpCq1Kaw5Nw6R7uP91mirEUz+JKot3lpqcrYraaF6lXBjTzMcPw5893Bw8LTjAiGQ5nx4aohfjkMPKvdpkDHFEpPV
 c5.patreon.com	TRUE	/	FALSE	1999999999	SameSite	None
 

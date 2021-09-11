@@ -1,5 +1,5 @@
-HTTrack3.49-2+htsswf+htsjava launched on Mon, 06 Sep 2021 16:34:17 at https://saurabhdaware.github.io/text-to-handwriting/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://saurabhdaware.github.io/text-to-handwriting/ -O1 "C:\Users\SINNU COMPACT\Desktop\2LET\handwriting" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 11 Sep 2021 19:04:17 at https://saurabhdaware.github.io/text-to-handwriting/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://saurabhdaware.github.io/text-to-handwriting/ -O1 "C:\Users\SINNU COMPACT\Desktop\sinnu\sinnu handwriting" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
@@ -7,5 +7,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 
-HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 19 links scanned, 18 files written (572912 bytes overall) [239999 bytes received at 26666 bytes/sec], 546743 bytes transferred using HTTP compression in 14 files, ratio 35%, 3.3 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 19 links scanned, 18 files written (572912 bytes overall) [240004 bytes received at 21818 bytes/sec], 546743 bytes transferred using HTTP compression in 14 files, ratio 35%, 4.0 requests per connection
 (No errors, 0 warnings, 0 messages)
